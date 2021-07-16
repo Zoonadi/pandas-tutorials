@@ -5,8 +5,6 @@
 -----------------
 
 # Pandas Tutorials
-[![PyPI Latest Release](https://img.shields.io/pypi/v/pandas.svg)](https://pypi.org/project/pandas/)
-[![Conda Latest Release](https://anaconda.org/conda-forge/pandas/badges/version.svg)](https://anaconda.org/anaconda/pandas/)
 
 ## Installation
 Install [Anaconda](https://docs.anaconda.com/anaconda/install/) on your machine. Open the *Anaconda Prompt* after installation of Anaconda and run the following commmands:
